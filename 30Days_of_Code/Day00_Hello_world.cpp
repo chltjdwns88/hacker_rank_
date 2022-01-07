@@ -3,6 +3,8 @@
 #include <vector>
 #include <iostream>
 #include <algorithm>
+#include <sstream>
+
 using namespace std;
 int main() {
     string input_string; 
